@@ -1,0 +1,6 @@
+framework module Pods_TabcorpCodeTest {
+  umbrella header "Pods-TabcorpCodeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
